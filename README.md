@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Eziz Sopyyev 👋
+# Hi there, I'm Abdyleziz Sopyyev 👋
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full-stack+Developer;Laravel+%26+React+Enthusiast;Building+Mobile+Apps+with+Flutter)
 
