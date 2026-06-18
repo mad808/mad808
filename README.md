@@ -70,8 +70,8 @@
 ## ⚡ Contribution Snake
 
 <div align="center">
-
-![snake](https://github.com/mad808/mad808/raw/main/output/github-contribution-grid-snake-dark.svg)
+  
+![snake](https://raw.githubusercontent.com/mad808/mad808/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
