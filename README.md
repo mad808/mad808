@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdyleziz+Sopyyev+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+Flutter+%7C+Python+Enthusiast;Building+real+products+for+real+users+%F0%9F%87%B9%F0%9F%87%B2)](https://github.com/mad808)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdyleziz+Sopyyev+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Flutter+%7C+Python;Building+real+products+for+real+users+%F0%9F%87%B9%F0%9F%87%B2)](https://github.com/mad808)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mad808&label=Profile+Views&color=0e75b6&style=flat-square)
 
 </div>
 
----
+- - -
 
 ## 👨‍💻 About Me
 
@@ -19,7 +19,7 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 - 🗄️ Working with both **MySQL** and **PostgreSQL** depending on the project
 - 💬 Ask me about Laravel, Flutter, or trading bots — happy to help!
 
----
+- - -
 
 ## 🛠 Tech Stack
 
@@ -33,6 +33,7 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 **🌐 Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,8 +50,8 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 
 **🤖 Bots & Trading**
 
-![Python](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5%20%2F%20MT5-1E3A5F?style=for-the-badge&logo=metatrader&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5%20%2F%20MT5-1E3A5F?style=for-the-badge&logoColor=white)
 
 **🔧 Tools**
 
@@ -58,7 +59,7 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+- - -
 
 ## 🚀 Live Projects
 
@@ -67,41 +68,21 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 | 🛒 [Online Market](https://onlinemarket.alwaysdata.net) | Classifieds & e-commerce marketplace | Laravel, MySQL, Bootstrap |
 | 🚗 [Ulagym](https://ulagym.alwaysdata.net) | Car buying & selling platform | Laravel, MySQL, Bootstrap |
 
----
+- - -
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![mad808's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mad808&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![mad808's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mad808&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mad808&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mad808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mad808&theme=tokyonight&hide_border=false)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mad808&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mad808&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
-## ⚡ Contribution Activity
-
-<div align="center">
-
-![snake](https://github.com/mad808/mad808/raw/main/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
+- - -
 
 ## 📬 Contact Me
 
@@ -115,7 +96,7 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 
 </div>
 
----
+- - -
 
 <div align="center">
 
