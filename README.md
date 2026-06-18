@@ -8,7 +8,7 @@
 
 ---
 
-**20-year-old Full-Stack Developer** from Ashgabat, Turkmenistan 🇹🇲 — I build and ship real products that serve real users. Founder of two live marketplaces, building scalper trading bots on the side.
+**20-year-old Full-Stack Developer** from Ashgabat, Turkmenistan — I build and ship real products that serve real users. Founder of two live marketplaces, building scalper trading bots on the side.
 
 - 🛒 **[Online Market](https://onlinemarket.alwaysdata.net)** — classifieds & e-commerce platform
 - 🚗 **[Ulagym](https://ulagym.alwaysdata.net)** — car marketplace for Turkmenistan
