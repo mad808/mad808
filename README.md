@@ -80,6 +80,8 @@ I'm a **20-year-old Full-Stack Developer** from **Ashgabat, Turkmenistan**, buil
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mad808&theme=tokyonight&hide_border=true)
 
+![snake](https://github.com/mad808/mad808/raw/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 - - -
