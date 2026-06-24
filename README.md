@@ -10,8 +10,6 @@
 I build and ship real products that serve real users. 
 Founder of two live marketplaces, building scalper trading bots on the side.
 
-🛒 **[Online Market](https://onlinemarket.alwaysdata.net)** &nbsp; | &nbsp; 🚗 **[Ulagym](https://ulagym.alwaysdata.net)** &nbsp; | &nbsp; 🤖 **MQL5 bots** &nbsp; | &nbsp; 🐍 **Telegram bots**
-
 ---
 
 ## 🛠 Tech Stack
