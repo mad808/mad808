@@ -12,8 +12,8 @@
 
 ## 👋 About me
 
-<table width="100%">
-  <tr><td width="190"><b>📍 Location</b></td><td>Ashgabat, Turkmenistan</td></tr>
+<table align="center" width="100%">
+  <tr><td width="190"><b>📍 Location</b></td><td><img align="right" src="https://raw.githubusercontent.com/mad808/mad808/main/assets/spacer.svg" width="1000" height="1" alt="" />Ashgabat, Turkmenistan</td></tr>
   <tr><td><b>💼 Role</b></td><td>Full-stack developer (Web and Mobile)</td></tr>
   <tr><td><b>🏪 Founder of</b></td><td><a href="https://online-market.alwaysdata.net/">Online Market</a> and <a href="https://ulagym.alwaysdata.net/">Ulagym</a></td></tr>
   <tr><td><b>🤖 On the side</b></td><td>MQL5 scalper bots, Python and Telegram automation</td></tr>
@@ -25,10 +25,11 @@
 
 ## 🛠 Tech stack
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="190"><b>Backend</b></td>
     <td>
+      <img align="right" src="https://raw.githubusercontent.com/mad808/mad808/main/assets/spacer.svg" width="1000" height="1" alt="" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -76,8 +77,8 @@
 
 ## 🚀 What I build
 
-<table width="100%">
-  <tr><td width="190"><b>🌐 Web platforms</b></td><td>Full-stack Laravel and React apps: marketplaces, storefronts and dashboards</td></tr>
+<table align="center" width="100%">
+  <tr><td width="190"><b>🌐 Web platforms</b></td><td><img align="right" src="https://raw.githubusercontent.com/mad808/mad808/main/assets/spacer.svg" width="1000" height="1" alt="" />Full-stack Laravel and React apps: marketplaces, storefronts and dashboards</td></tr>
   <tr><td><b>📱 Mobile apps</b></td><td>Cross-platform Flutter apps with clean UI and real backend integration</td></tr>
   <tr><td><b>🤖 Trading bots</b></td><td>MQL5 scalpers with strict SL/TP and confluence logic</td></tr>
   <tr><td><b>🐍 Telegram bots</b></td><td>Python bots for automation and business workflows</td></tr>
@@ -87,10 +88,10 @@
 
 ## 📦 Live projects
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <th align="left" width="190">Project</th>
-    <th align="left">What it does</th>
+    <th align="left"><img align="right" src="https://raw.githubusercontent.com/mad808/mad808/main/assets/spacer.svg" width="1000" height="1" alt="" />What it does</th>
     <th align="left" width="230">Stack</th>
   </tr>
   <tr>
@@ -114,9 +115,10 @@
 
 ## 📊 GitHub stats
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
+      <img align="right" src="https://raw.githubusercontent.com/mad808/mad808/main/assets/spacer.svg" width="1000" height="1" alt="" />
       <img height="165" src="https://github-readme-stats.vercel.app/api?username=mad808&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=100a08&title_color=ff6b2c&icon_color=ffa43a&text_color=f5ede8&ring_color=ff6b2c" alt="Stats" />
     </td>
     <td align="center" width="50%">
@@ -139,9 +141,9 @@
 
 ## 📬 Let's connect
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="20%"><a href="https://t.me/S_EZIZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><br/><sub>@S_EZIZ</sub></td>
+    <td align="center" width="20%"><img align="right" src="https://raw.githubusercontent.com/mad808/mad808/main/assets/spacer.svg" width="1000" height="1" alt="" /><a href="https://t.me/S_EZIZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><br/><sub>@S_EZIZ</sub></td>
     <td align="center" width="20%"><a href="mailto:mad300905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/><sub>mad300905@gmail.com</sub></td>
     <td align="center" width="20%"><a href="https://www.instagram.com/e_sopyev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a><br/><sub>@e_sopyev</sub></td>
     <td align="center" width="20%"><a href="https://wa.me/99362457341"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><br/><sub>Message me</sub></td>
