@@ -7,15 +7,6 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B2C&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Abdyleziz+Sopyyev+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Flutter+%7C+Python+%7C+MQL5;Building+real+products+for+real+users+%F0%9F%87%B9%F0%9F%87%B2;Open+to+remote+roles+%F0%9F%9A%80)](https://mad808.github.io)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mad808.github.io-ff6b2c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mad808.github.io)
-![Profile Views](https://komarev.com/ghpvc/?username=mad808&label=Profile+Views&color=ff6b2c&style=for-the-badge)
-
-</div>
-
 ---
 
 ## 👋 About me
